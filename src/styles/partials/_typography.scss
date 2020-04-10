@@ -1,0 +1,36 @@
+// ********************
+// TYPOGRAPHY
+// ********************
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0;
+}
+
+@font-face {
+  font-family: "SourceSansPro";
+  src: url("~@/assets/fonts/source-sans/SourceSansPro-Light.otf") format("opentype");
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: "SourceSansPro";
+  src: url("~@/assets/fonts/source-sans/SourceSansPro-Regular.otf") format("opentype");
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "SourceSansPro";
+  src: url("~@/assets/fonts/source-sans/SourceSansPro-Bold.otf") format("opentype");
+  font-weight: 700;
+}
+
+// @font-face {
+//   font-family: "SourceSansPro";
+//   src: url("~@/assets/fonts/source-sans/sourcesanspro-it-webfont.ttf") format("truetype");
+// }

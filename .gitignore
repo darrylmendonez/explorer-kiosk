@@ -1,0 +1,60 @@
+# Outputs
+bazel-*
+test-project-host-*
+dist/
+dist-schema/
+
+# IDEs
+.idea/
+jsconfig.json
+.vscode/
+
+# Typings file.
+typings/
+
+# Misc
+coverage/
+node_modules/
+tmp/
+npm-debug.log*
+yarn-error.log*
+.ng_pkg_build/
+AppDevSecurityProtocol.docx
+
+# Mac OSX Finder files.
+**/.DS_Store
+.DS_Store
+
+# Mac OSX Finder files.
+**/.DS_Store
+.DS_Store
+
+# Electron
+dist_electron/
+
+# Production build
+dist/
+#Electron-builder output
+/dist_electron
+
+
+# Temporary file
+*.tmp
+
+# Word temporary
+~$*.doc*
+
+# Word Auto Backup File
+Backup of *.doc*
+
+# Excel temporary
+~$*.xls*
+
+# Excel Backup File
+*.xlk
+
+# PowerPoint temporary
+~$*.ppt*
+
+# Visio autosave temporary files
+*.~vsd*
